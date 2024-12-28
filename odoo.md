@@ -1,5 +1,5 @@
 # To manage item variants quantity 
-Upload the item in the inverntory management (the inventory management filter must on then import)
+Upload the item in the inventory management (the inventory management filter must on then import)
 ![image](https://github.com/user-attachments/assets/b52a6f17-5949-4031-b670-f45ad6dc36db)
 
 # Prevent selling out of stock item
